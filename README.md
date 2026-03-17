@@ -160,3 +160,4 @@ Possible next steps include:
 
 ## Citation
 **Petalcorin, M.I.R.** (2026). Cancer as a Metabolic-Adaptive State Space: A Systems Framework Integrating Bioenergetics, Genome Maintenance, and Phenotypic Plasticity. chemRxiv. https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000957/v1
+https://github.com/mpetalcorin/cancer-metabolic-adaptive-state-space/edit/main/README.md
