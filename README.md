@@ -159,4 +159,4 @@ Possible next steps include:
 	•	testing whether transition-based vulnerabilities outperform state-only targeting
 
 ## Citation
-**Petalcorin, M.I.R.** (2026). Cancer as a Metabolic-Adaptive State Space: A Systems Framework Linking Bioenergetics, Genome Maintenance, and Phenotypic Plasticity. https://github.com/mpetalcorin/cancer-metabolic-adaptive-state-space
+**Petalcorin, M.I.R.** (2026). Cancer as a Metabolic-Adaptive State Space: A Systems Framework Integrating Bioenergetics, Genome Maintenance, and Phenotypic Plasticity. chemRxiv. https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000957/v1
