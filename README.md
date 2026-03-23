@@ -1,5 +1,6 @@
 # cancer-metabolic-adaptive-state-space
 A simulation-driven systems oncology framework that models cancer as a dynamic metabolic-adaptive landscape linking bioenergetics, DNA repair, phenotypic plasticity, and therapy-driven state transitions.
+<img width="1558" height="787" alt="Screenshot 2026-03-23 at 17 16 18" src="https://github.com/user-attachments/assets/b1754175-e09c-4065-ba58-b62fa467a973" />
 
 ## Cancer as a Metabolic-Adaptive State Space
 
